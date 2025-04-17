@@ -31,7 +31,7 @@ Playground
 
 Método: main() — executa a lógica do jogo.
 
-👥 <strong>Instanciação de Objetos<strong>
+👥 <strong>Instanciação de Objetos</strong>
 
 Os objetos são criados a partir das classes:
 
